@@ -1,0 +1,11 @@
+li div {
+  cursor: pointer;
+}
+
+.navbar-brand {
+  cursor: pointer;
+}
+
+.page {
+  background-color: rgb(225, 225, 225);
+}
