@@ -1,0 +1,15 @@
+.subtotal-area {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.subtotal-area button {
+  font-size: 18px;
+  border: none;
+  font-weight: 500;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 15px;
+  background-color: black;
+}

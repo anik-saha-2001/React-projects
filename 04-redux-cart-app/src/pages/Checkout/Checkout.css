@@ -1,0 +1,31 @@
+.checkout {
+  min-height: 100vh;
+  width: 100%;
+}
+
+.checkout-product {
+  padding: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-bottom: 1px solid grey;
+}
+
+.checkout-product img {
+  width: 70px;
+  height: 70px;
+}
+
+.checkout-product button {
+  border: none;
+  background-color: red;
+  color: white;
+  border-radius: 50%;
+  height: 30px;
+  width: 30px;
+  cursor: pointer;
+}
+
+.subtotal {
+  padding: 40px;
+}
